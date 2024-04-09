@@ -1,0 +1,66 @@
+body {
+    background-color: rgb(216, 193, 193);
+    color: rgb(17, 14, 14)
+}
+
+h1 {
+    font-size: 20px;
+    border-color: blueviolet;
+    border-style: double;
+}
+
+p {
+    border-style: solid;
+    border-radius: 3px;
+    border-color: rgb(77, 20, 131);
+    background-color: rgb(197, 144, 144);
+    font-size: 20px ;
+    color: black ;
+    width: 300px;
+  
+        
+}
+
+.laatikko {
+    border-style: dotted;
+    border-width: 2px;
+    width: 100px;
+    height: 100px;
+}
+
+ol {
+    list-style-type: upper-alpha;
+}
+
+ul {
+    list-style: square;
+}
+
+.linkki {
+    position: fixed;
+    top: 0px;
+    right: 0px;
+    padding: 50px;
+    width: 200px;
+    height: 20px;
+    color: violet;
+    background-color: chartreuse;
+}
+
+    
+#kuva1 {
+    padding: 15px;
+    margin: 10px
+}
+
+hr {
+    border-style: solid;
+    border-color: coral;
+    width: 1000px;
+    margin-left: 0px;
+}
+
+
+div {
+    width: auto;
+}
